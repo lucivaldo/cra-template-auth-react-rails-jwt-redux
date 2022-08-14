@@ -1,0 +1,1 @@
+CRA Template para criar um aplicação React pronta para autenticar com backend OAuth2
