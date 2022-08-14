@@ -1,1 +1,1 @@
-CRA Template para criar uma aplicação React pronta para autenticar com backend OAuth2.
+CRA Template para criar uma aplicação React pronta para autenticar com backend OAuth2 utilizando Redux.

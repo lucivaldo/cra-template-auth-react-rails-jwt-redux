@@ -10,6 +10,11 @@
     "oauth2"
   ],
   "description": "Template para iniciar uma aplicação React com autenticação OAuth2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucivaldo/cra-template-auth-react-rails-jwt-redux.git",
+    "directory": "."
+  },
   "license": "MIT",
   "files": [
     "template",
